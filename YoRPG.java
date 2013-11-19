@@ -75,7 +75,7 @@ public class YoRPG {
 
 	while ( !type ) {
 
-	    System.out.println("Choose thine character type:");
+	    System.out.println("Choose your class:");
 	    System.out.println("\t1: Warrior");
 	    System.out.println("\t2: Mage");
 	    System.out.println("\t3: Priest");
